@@ -23,6 +23,4 @@ https://immense-cliffs-21577.herokuapp.com/
 
 ## Screenshots
 
-
-
-
+<img width="1205" alt="Screen Shot 2020-11-29 at 1 45 41 PM" src="https://user-images.githubusercontent.com/66789135/100553331-bd4f6d80-324a-11eb-99fc-e8ef31036c96.png">
