@@ -27,6 +27,9 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## Screenshots
 
+Search books
 <img width="1256" alt="Screen Shot 2020-12-01 at 12 42 43 PM" src="https://user-images.githubusercontent.com/66789135/100788760-c23f2900-33d2-11eb-8695-6eb6a13cce34.png">
+
+View and delete saved books
 <img width="1260" alt="Screen Shot 2020-12-01 at 12 42 55 PM" src="https://user-images.githubusercontent.com/66789135/100788764-c4a18300-33d2-11eb-8bb0-cfb84867f68e.png">
 
